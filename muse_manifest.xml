@@ -1,0 +1,24 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gaurav.com" resolutions="1x" timestamp="1516758119719">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="172629293" ref="project:about-me:index"/>
+    <file name="project.css" crc="4143949651" ref="project"/>
+    <file name="about-me.css" crc="4010254117" ref="about-me"/>
+    <file name="index.css" crc="4074676101" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:project:about-me"/>
+    <file name="museutils.js" crc="183364071" ref="index:project:about-me"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:project:about-me"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:project:about-me"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 300x297.jpg" crc="216403990" seo="true" ref="index:project:about-me"/>
+    <file name="slide3.jpg" crc="221455407" seo="true" ref="project"/>
+    <file name="slide4.jpg" crc="3773729696" seo="true" ref="project"/>
+  </folder>
+  <file name="index.html" crc="209626823" seo="true" mt="1516754904141" redirect="true"/>
+  <file name="project.html" crc="4286048631" seo="true" mt="1516758017294" redirect="true"/>
+  <file name="about-me.html" crc="3987117956" seo="true" mt="1516754842298" redirect="true"/>
+</manifest>
