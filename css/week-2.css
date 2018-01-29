@@ -1,7 +1,7 @@
-.version.about_me /* version checker */
+.version.week_2 /* version checker */
 {
-	color: #0000E7;
-	background-color: #34AFF7;
+	color: #0000E3;
+	background-color: #DB4BE3;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1100px;
-	min-height: 141px;
+	min-height: 1499.9499999999998px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -21,7 +21,7 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
-	padding-bottom: 1359px;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -33,21 +33,44 @@
 	background-color: transparent;
 }
 
+#page_position_content
+{
+	margin-top: -34px;
+	padding-bottom: 609px;
+	width: 0.01px;
+}
+
+#u695-3
+{
+	z-index: 53;
+	width: 6px;
+	min-height: 6px;
+	background-color: transparent;
+	margin-left: 61px;
+	position: relative;
+}
+
+#pu431
+{
+	width: 0.01px;
+	margin-left: 21px;
+	margin-top: 35px;
+}
+
 #u431
 {
 	z-index: 4;
 	width: 119px;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 21px;
+	margin-top: 2px;
 }
 
 #pu436-4
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 20px;
-	margin-left: 194px;
+	margin-top: 2px;
+	margin-left: 174px;
 }
 
 #u436-4
@@ -298,8 +321,91 @@
 	z-index: 2;
 	width: 250px;
 	margin-right: -10000px;
-	margin-top: 18px;
-	left: 770px;
+	left: 750px;
+}
+
+#pu686-6
+{
+	width: 0.01px;
+	margin-left: 171px;
+	margin-top: 37px;
+}
+
+#u686-6
+{
+	z-index: 47;
+	width: 324px;
+	min-height: 109px;
+	background-color: #FFF23C;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u683-12
+{
+	z-index: 35;
+	width: 474px;
+	min-height: 109px;
+	background-color: #FFAE8B;
+	position: relative;
+	margin-right: -10000px;
+	left: 333px;
+}
+
+#u683-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u683
+{
+	line-height: 17px;
+}
+
+#u696-54
+{
+	z-index: 56;
+	width: 807px;
+	min-height: 219px;
+	background-color: transparent;
+	margin-left: 171px;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u696-2,#u696-9,#u696-13,#u696-20
+{
+	font-weight: bold;
+}
+
+#u696-4,#u696-42
+{
+	color: #000000;
+}
+
+#u696-11,#u696-12,#u696-16,#u696-24,#u696-25,#u696-39,#u696-43
+{
+	color: #FF0000;
+}
+
+#u696-47
+{
+	color: #000212;
+}
+
+#u696-48,#u696-51
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #000212;
+}
+
+#u683-2,#u683-5,#u683-7,#u683-9,#u696-52
+{
+	font-size: 18px;
+	line-height: 22px;
 }
 
 body

@@ -3,16 +3,16 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "about-me.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "jquery.watch.js", "about-me.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2015.0.0.309"/>
-  <title>about me </title>
+  <title>About me </title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?172629293"/>
-  <link rel="stylesheet" type="text/css" href="css/about-me.css?4010254117" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?126095425"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?4276222009"/>
+  <link rel="stylesheet" type="text/css" href="css/about-me.css?3878989815" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -24,13 +24,29 @@
    </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- group -->
-   <div class="clip_frame grpelem" id="u85"><!-- image -->
-    <img class="block" id="u85_img" src="images/pasted%20image%20300x297.jpg" alt="" width="92" height="91"/>
+  <div class="Style clearfix" id="page"><!-- group -->
+   <div class="clip_frame grpelem" id="u431"><!-- image -->
+    <img class="block" id="u431_img" src="images/fablab_cept_logo.gif" alt="" width="119" height="119"/>
    </div>
-   <div class="clearfix grpelem" id="u91-6"><!-- content -->
-    <p>Gaurav Wadhwa</p>
-    <p>Research Assistant&nbsp; at Fablab Cept</p>
+   <div class="clearfix grpelem" id="pu436-4"><!-- column -->
+    <img class="colelem" id="u436-4" alt="Guurav Wadhwa" width="534" height="60" src="images/u436-4.png"/><!-- rasterized frame -->
+    <nav class="MenuBar clearfix colelem" id="menuu515"><!-- horizontal box -->
+     <div class="MenuItemContainer clearfix grpelem" id="u516"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u517" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u519-4"><!-- content --><p>Home</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u523"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u526" href="weekly-work.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u529-4"><!-- content --><p>Weekly Work</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u530"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u533" href="project.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u535-4"><!-- content --><p>Project</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u537"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u538" href="about-me.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u539-4"><!-- content --><p>About me</p></div></a>
+     </div>
+    </nav>
+   </div>
+   <div class="clip_frame grpelem" id="u426"><!-- image -->
+    <img class="block" id="u426_img" src="images/fab_academygg.gif" alt="" width="250" height="123"/>
    </div>
    <div class="verticalspacer"></div>
   </div>
@@ -42,6 +58,7 @@
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="scripts/museutils.js?183364071" type="text/javascript"></script>
+  <script src="scripts/jquery.musemenu.js?3957776250" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?71412426" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -51,6 +68,7 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

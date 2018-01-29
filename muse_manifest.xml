@@ -1,24 +1,51 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gaurav.com" resolutions="1x" timestamp="1516758119719">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gauravwadhwa.com" resolutions="1x" timestamp="1517231506620">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="172629293" ref="project:about-me:index"/>
-    <file name="project.css" crc="4143949651" ref="project"/>
-    <file name="about-me.css" crc="4010254117" ref="about-me"/>
-    <file name="index.css" crc="4074676101" ref="index"/>
+    <file name="site_global.css" crc="126095425"/>
+    <file name="master_a-master.css" crc="4276222009" ref="project:about-me:index:week4:git:week-2:week-3:week-1:muse:weekly-work"/>
+    <file name="project.css" crc="3878989815" ref="project"/>
+    <file name="about-me.css" crc="3878989815" ref="about-me"/>
+    <file name="index.css" crc="368091845" ref="index"/>
+    <file name="week4.css" crc="3878989815" ref="week4"/>
+    <file name="git.css" crc="3878989815" ref="git"/>
+    <file name="week-2.css" crc="3822799843" ref="week-2"/>
+    <file name="week-3.css" crc="3878989815" ref="week-3"/>
+    <file name="week-1.css" crc="469455282" ref="week-1"/>
+    <file name="muse.css" crc="349921237" ref="muse"/>
+    <file name="weekly-work.css" crc="19653770" ref="weekly-work"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:project:about-me"/>
-    <file name="museutils.js" crc="183364071" ref="index:project:about-me"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:project:about-me"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:project:about-me"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:project:about-me:weekly-work:week-1:week-2:week-3:week4:muse:git"/>
+    <file name="museutils.js" crc="183364071" ref="index:project:about-me:weekly-work:week-1:week-2:week-3:week4:muse:git"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:weekly-work:week-1:week-2:project:about-me:week-3:week4:muse:git"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:project:about-me:weekly-work:week-1:week-2:week-3:week4:muse:git"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:project:about-me:weekly-work:week-1:week-2:week-3:week4:muse:git"/>
   </folder>
   <folder name="images">
-    <file name="pasted image 300x297.jpg" crc="216403990" seo="true" ref="index:project:about-me"/>
-    <file name="slide3.jpg" crc="221455407" seo="true" ref="project"/>
-    <file name="slide4.jpg" crc="3773729696" seo="true" ref="project"/>
+    <file name="fablab_cept_logo.gif" crc="3952127641" seo="true" ref="index:weekly-work:week-1:week-2:project:about-me:week-3:week4:muse:git"/>
+    <file name="fab_academygg.gif" crc="14025603" seo="true" ref="index:weekly-work:week-1:week-2:project:about-me:week-3:week4:muse:git"/>
+    <file name="solar-panel-cleaning.gif" crc="3926190949" seo="true" ref="week-1"/>
+    <file name="my-home-pic.gif" crc="4134363415" seo="true" ref="index"/>
+    <file name="m.jpg" crc="357193836" seo="true" ref="weekly-work"/>
+    <file name="muse_5.gif" crc="35059098" seo="true" ref="weekly-work"/>
+    <file name="muse_1.gif" crc="467145866" seo="true" ref="muse"/>
+    <file name="muse_2.gif" crc="502952504" seo="true" ref="muse"/>
+    <file name="muse_3.gif" crc="3898805954" seo="true" ref="muse"/>
+    <file name="muse_4.gif" crc="3767665625" seo="true" ref="muse"/>
+    <file name="muse_52.gif" crc="35059098" seo="true" ref="muse"/>
+    <file name="muse_6.gif" crc="3991800105" seo="true" ref="muse"/>
+    <file name="muse_7.gif" crc="75892849" seo="true" ref="muse"/>
+    <file name="muse_8.gif" crc="80105557" seo="true" ref="muse"/>
+    <file name="muse_9.gif" crc="385729519" seo="true" ref="muse"/>
+    <file name="u436-4.png" crc="3946471042" ref="index:weekly-work:week-1:week-2:project:about-me:week-3:week4:muse:git"/>
   </folder>
-  <file name="index.html" crc="209626823" seo="true" mt="1516754904141" redirect="true"/>
-  <file name="project.html" crc="4286048631" seo="true" mt="1516758017294" redirect="true"/>
-  <file name="about-me.html" crc="3987117956" seo="true" mt="1516754842298" redirect="true"/>
+  <file name="index.html" crc="3812400834" seo="true" mt="1517231475472" redirect="true"/>
+  <file name="project.html" crc="221128430" seo="true" mt="1517231475476" redirect="true"/>
+  <file name="about-me.html" crc="75762169" seo="true" mt="1517231475476" redirect="true"/>
+  <file name="weekly-work.html" crc="3840832738" seo="true" mt="1517231475474" redirect="true"/>
+  <file name="week-1.html" crc="401340660" seo="true" mt="1517231475474" redirect="true"/>
+  <file name="week-2.html" crc="352442531" seo="true" mt="1517231475474" redirect="true"/>
+  <file name="week-3.html" crc="437225249" seo="true" mt="1517231475482" redirect="true"/>
+  <file name="week4.html" crc="251794269" seo="true" mt="1517231475484" redirect="true"/>
+  <file name="muse.html" crc="388581437" seo="true" mt="1517231475484" redirect="true"/>
+  <file name="git.html" crc="4183123469" seo="true" mt="1517231475486" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
-.version.about_me /* version checker */
+.version.weekly_work /* version checker */
 {
-	color: #0000E7;
-	background-color: #34AFF7;
+	color: #000001;
+	background-color: #2BE48A;
 }
 
 .html
@@ -12,18 +12,18 @@
 #page
 {
 	z-index: 1;
-	width: 1100px;
-	min-height: 141px;
+	width: 999px;
+	min-height: 394px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: transparent;
+	background-color: #FFFA91;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
-	padding-bottom: 1359px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 18px 80px 1088px 21px;
 }
 
 .Style
@@ -33,21 +33,26 @@
 	background-color: transparent;
 }
 
+#pu431
+{
+	width: 0.01px;
+	margin-left: -1px;
+}
+
 #u431
 {
 	z-index: 4;
 	width: 119px;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 21px;
+	margin-top: 2px;
 }
 
 #pu436-4
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 20px;
-	margin-left: 194px;
+	margin-top: 2px;
+	margin-left: 174px;
 }
 
 #u436-4
@@ -298,8 +303,74 @@
 	z-index: 2;
 	width: 250px;
 	margin-right: -10000px;
-	margin-top: 18px;
-	left: 770px;
+	left: 750px;
+}
+
+#pu824
+{
+	width: 0.01px;
+	margin-left: 97px;
+	margin-top: 47px;
+}
+
+#u824
+{
+	z-index: 35;
+	width: 352px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u831
+{
+	z-index: 42;
+	width: 352px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 501px;
+}
+
+#pu830-5
+{
+	width: 0.01px;
+	margin-left: 97px;
+	margin-top: 7px;
+}
+
+#u830-5
+{
+	z-index: 37;
+	width: 352px;
+	min-height: 19px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u830-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u830
+{
+	font-size: 24px;
+	line-height: 29px;
+}
+
+#u836-5
+{
+	z-index: 44;
+	width: 345px;
+	min-height: 22px;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	position: relative;
+	margin-right: -10000px;
+	left: 504px;
 }
 
 body

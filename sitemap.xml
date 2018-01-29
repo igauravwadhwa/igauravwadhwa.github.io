@@ -1,38 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gaurav.com/images/pasted%20image%20300x297.jpg</loc>
-    <lastmod>2018-01-24</lastmod>
+    <loc>http://gauravwadhwa.com/images/fablab_cept_logo.gif</loc>
+    <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gaurav.com/images/slide3.jpg</loc>
-    <lastmod>2018-01-24</lastmod>
+    <loc>http://gauravwadhwa.com/images/fab_academygg.gif</loc>
+    <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gaurav.com/images/slide4.jpg</loc>
-    <lastmod>2018-01-24</lastmod>
+    <loc>http://gauravwadhwa.com/images/solar-panel-cleaning.gif</loc>
+    <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gaurav.com/index.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <loc>http://gauravwadhwa.com/images/my-home-pic.gif</loc>
+    <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gaurav.com/project.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <loc>http://gauravwadhwa.com/images/m.jpg</loc>
+    <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gaurav.com/about-me.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <loc>http://gauravwadhwa.com/images/muse_5.gif</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/images/muse_1.gif</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/images/muse_2.gif</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/images/muse_3.gif</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/images/muse_4.gif</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/images/muse_52.gif</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/images/muse_6.gif</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/images/muse_7.gif</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/images/muse_8.gif</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/images/muse_9.gif</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/index.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/project.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/about-me.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/weekly-work.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/week-1.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/week-2.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/week-3.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/week4.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/muse.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gauravwadhwa.com/git.html</loc>
+    <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

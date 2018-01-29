@@ -1,7 +1,7 @@
-.version.about_me /* version checker */
+.version.week_1 /* version checker */
 {
-	color: #0000E7;
-	background-color: #34AFF7;
+	color: #00001B;
+	background-color: #FB51B2;
 }
 
 .html
@@ -12,16 +12,18 @@
 #page
 {
 	z-index: 1;
-	width: 1100px;
-	min-height: 141px;
+	width: 999px;
+	min-height: 1984px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: transparent;
+	background-color: #FFE0C8;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
-	padding-bottom: 1359px;
+	padding-left: 21px;
+	padding-top: 18px;
+	padding-bottom: 106px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -33,21 +35,18 @@
 	background-color: transparent;
 }
 
-#u431
+#ppu436-4
 {
-	z-index: 4;
-	width: 119px;
-	margin-right: -10000px;
-	margin-top: 20px;
-	left: 21px;
+	width: 0.01px;
+	margin-left: -1px;
 }
 
 #pu436-4
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 20px;
-	margin-left: 194px;
+	margin-top: 2px;
+	margin-left: 174px;
 }
 
 #u436-4
@@ -298,15 +297,233 @@
 	z-index: 2;
 	width: 250px;
 	margin-right: -10000px;
-	margin-top: 18px;
-	left: 770px;
+	left: 750px;
+}
+
+#u431
+{
+	z-index: 4;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 2px;
+}
+
+#u682-4
+{
+	z-index: 166;
+	width: 111px;
+	min-height: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 108px;
+	left: 6px;
+}
+
+#pu628-6
+{
+	width: 0.01px;
+	margin-left: 174px;
+	margin-top: 11px;
+}
+
+#u628-6
+{
+	z-index: 35;
+	width: 365px;
+	min-height: 53px;
+	background-color: #B79DFF;
+	line-height: 22px;
+	font-size: 18px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u632-20
+{
+	z-index: 41;
+	width: 258px;
+	min-height: 229px;
+	background-color: #FBB03B;
+	line-height: 22px;
+	font-size: 18px;
+	font-weight: normal;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 413px;
+}
+
+#u632-4
+{
+	color: #000000;
+}
+
+#u632-5
+{
+	color: #FF0000;
+}
+
+#u636-9
+{
+	z-index: 61;
+	width: 365px;
+	min-height: 54px;
+	background-color: #FFFA79;
+	line-height: 22px;
+	font-size: 18px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 138px;
+}
+
+#u636-2
+{
+	text-align: justify;
+	color: #000000;
+	font-weight: bold;
+}
+
+#u636-4,#u636-6
+{
+	text-align: justify;
+}
+
+#u641-6
+{
+	z-index: 70;
+	width: 365px;
+	min-height: 46px;
+	background-color: #6FFF48;
+	line-height: 22px;
+	font-size: 18px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 73px;
+}
+
+#u628-2,#u641-2
+{
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u643-24
+{
+	z-index: 76;
+	width: 671px;
+	min-height: 284px;
+	background-color: #91FFF5;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 605px;
+}
+
+#u643-2,#u643-4,#u643-8,#u643-14,#u643-18
+{
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: bold;
+}
+
+#u643-6,#u643-10,#u643-12,#u643-16,#u643-20
+{
+	font-size: 18px;
+	line-height: 22px;
+}
+
+#u647-5
+{
+	z-index: 100;
+	width: 112px;
+	min-height: 17px;
+	background-color: transparent;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 247px;
+	left: 41px;
+}
+
+#u665
+{
+	z-index: 111;
+	width: 671px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 220px;
+}
+
+#u654-6
+{
+	z-index: 105;
+	width: 671px;
+	min-height: 168px;
+	background-color: #FCFF8B;
+	line-height: 22px;
+	font-size: 18px;
+	margin-left: 174px;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u636-7,#u654-2
+{
+	font-weight: bold;
+}
+
+#u654-4
+{
+	font-weight: normal;
+}
+
+#u680-7
+{
+	z-index: 159;
+	width: 671px;
+	min-height: 187px;
+	background-color: #67A3FF;
+	line-height: 22px;
+	font-size: 18px;
+	font-weight: normal;
+	font-style: italic;
+	margin-left: 174px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u672-20
+{
+	z-index: 113;
+	width: 678px;
+	min-height: 190px;
+	background-color: #F7931E;
+	font-size: 18px;
+	line-height: 22px;
+	margin-left: 167px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u673-26
+{
+	z-index: 133;
+	width: 673px;
+	min-height: 258px;
+	background-color: #FFDE1E;
+	font-size: 18px;
+	line-height: 22px;
+	margin-left: 167px;
+	margin-top: 20px;
+	position: relative;
 }
 
 body
 {
 	position: relative;
-	min-width: 1100px;
-	padding-bottom: 36px;
+	min-width: 1020px;
+	padding-bottom: 698px;
 }
 
 #page .verticalspacer
