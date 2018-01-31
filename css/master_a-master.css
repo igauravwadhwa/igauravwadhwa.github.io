@@ -94,6 +94,12 @@
 	position: relative;
 }
 
+#u426,#u431,#u516,#u523,#u530,#u537
+{
+	background-color: transparent;
+	position: relative;
+}
+
 #u538
 {
 	background-color: #C7B299;
@@ -129,11 +135,5 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u431,#u516,#u523,#u530,#u537,#u426
-{
-	background-color: transparent;
-	position: relative;
 }
 
