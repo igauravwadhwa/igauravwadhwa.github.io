@@ -1,7 +1,7 @@
 .version.week_2 /* version checker */
 {
-	color: #00001D;
-	background-color: #23656F;
+	color: #00000D;
+	background-color: #A3D10F;
 }
 
 .html
@@ -355,14 +355,14 @@
 	line-height: 17px;
 }
 
-#pu696-55
+#pu696-56
 {
 	width: 0.01px;
 	margin-left: 171px;
 	margin-top: 20px;
 }
 
-#u696-55
+#u696-56
 {
 	z-index: 58;
 	width: 812px;
@@ -389,43 +389,43 @@
 	font-weight: normal;
 }
 
-#u696-27,#u696-28,#u696-30,#u696-32,#u696-33,#u696-35,#u696-37,#u696-40
+#u696-27,#u696-28,#u696-30,#u696-31,#u696-33,#u696-34,#u696-36,#u696-38,#u696-41
 {
 	text-align: justify;
 	font-weight: normal;
 }
 
-#u696-42
+#u696-43
 {
 	text-align: justify;
 	color: #000000;
 	font-weight: normal;
 }
 
-#u696-11,#u696-12,#u696-16,#u696-24,#u696-39,#u696-43
+#u696-11,#u696-12,#u696-16,#u696-24,#u696-40,#u696-44
 {
 	color: #FF0000;
 }
 
-#u696-47
+#u696-48
 {
 	color: #000212;
 }
 
-#u696-48
+#u696-49
 {
 	font-size: 14px;
 	color: #000212;
 	font-weight: bold;
 }
 
-#u696-52
+#u696-53
 {
 	font-size: 14px;
 	color: #000212;
 }
 
-#u696-49,#u696-51
+#u696-50,#u696-52
 {
 	color: #000000;
 	font-weight: bold;
@@ -433,7 +433,7 @@
 
 #buttonu996
 {
-	z-index: 143;
+	z-index: 144;
 	width: 773px;
 	border-color: #787878;
 	background-color: #CACACA;
@@ -454,7 +454,7 @@
 
 #u998
 {
-	z-index: 149;
+	z-index: 150;
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
@@ -486,7 +486,7 @@
 
 #u997-5
 {
-	z-index: 144;
+	z-index: 145;
 	width: 682px;
 	min-height: 23px;
 	background-color: transparent;
@@ -519,7 +519,7 @@
 
 #u965-30
 {
-	z-index: 113;
+	z-index: 114;
 	width: 819px;
 	min-height: 419px;
 	background-color: transparent;
@@ -575,7 +575,7 @@
 
 #buttonu1062
 {
-	z-index: 150;
+	z-index: 151;
 	width: 780px;
 	border-color: #787878;
 	background-color: #CACACA;
@@ -596,7 +596,7 @@
 
 #u1064
 {
-	z-index: 156;
+	z-index: 157;
 	width: 18px;
 	height: 17px;
 	border-color: #000000;
@@ -628,7 +628,7 @@
 
 #u1063-5
 {
-	z-index: 151;
+	z-index: 152;
 	width: 681px;
 	min-height: 23px;
 	background-color: transparent;
@@ -678,7 +678,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u683-2,#u683-5,#u683-7,#u683-9,#u683-11,#u696-53,#u997,#u965-26,#u1063
+#u683-2,#u683-5,#u683-7,#u683-9,#u683-11,#u696-54,#u997,#u965-26,#u1063
 {
 	font-size: 18px;
 	line-height: 22px;

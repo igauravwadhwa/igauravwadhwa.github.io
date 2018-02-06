@@ -1,7 +1,7 @@
 .version.weekly_work /* version checker */
 {
-	color: #00001B;
-	background-color: #4DF099;
+	color: #000000;
+	background-color: #956983;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 863px;
-	min-height: 406px;
+	min-height: 648px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -23,7 +23,7 @@
 	filter: alpha(opacity=100);
 	margin-left: auto;
 	margin-right: auto;
-	padding: 6px 119px 1088px 118px;
+	padding: 6px 119px 846px 118px;
 }
 
 .Style
@@ -366,6 +366,28 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 504px;
+}
+
+#u1731
+{
+	z-index: 55;
+	width: 348px;
+	background-color: transparent;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u1730-6
+{
+	z-index: 49;
+	width: 342px;
+	min-height: 44px;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-left: 3px;
+	margin-top: 7px;
+	position: relative;
 }
 
 body

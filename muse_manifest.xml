@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gauravwadhwa.com" resolutions="1x" timestamp="1517403924483">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gauravwadhwa.com" resolutions="1x" timestamp="1517914517590">
   <folder name="css">
     <file name="site_global.css" crc="126095425"/>
     <file name="master_a-master.css" crc="188771193" ref="project:about-me:index:week4:git:week-2:week-3:week-1:muse:weekly-work"/>
@@ -7,11 +7,11 @@
     <file name="index.css" crc="411500350" ref="index"/>
     <file name="week4.css" crc="237694515" ref="week4"/>
     <file name="git.css" crc="3943632695" ref="git"/>
-    <file name="week-2.css" crc="488858991" ref="week-2"/>
-    <file name="week-3.css" crc="237694515" ref="week-3"/>
+    <file name="week-2.css" crc="228839695" ref="week-2"/>
+    <file name="week-3.css" crc="3898993368" ref="week-3"/>
     <file name="week-1.css" crc="264789572" ref="week-1"/>
     <file name="muse.css" crc="243416402" ref="muse"/>
-    <file name="weekly-work.css" crc="458092697" ref="weekly-work"/>
+    <file name="weekly-work.css" crc="9791875" ref="weekly-work"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:project:about-me:weekly-work:week-1:week-2:week-3:week4:muse:git"/>
@@ -63,14 +63,52 @@
     <file name="robo-soccer.gif" crc="4158789766" seo="true" ref="index:about-me"/>
     <file name="final-pic2.gif" crc="3912721665" seo="true" ref="week-1"/>
     <file name="site.gif" crc="429088780" seo="true" ref="week-1"/>
+    <file name="fusion1.gif" crc="4099069147" seo="true" ref="week-3"/>
+    <file name="fusions2.gif" crc="4152333100" seo="true" ref="week-3"/>
+    <file name="fusion3.gif" crc="4242523599" seo="true" ref="week-3"/>
+    <file name="fusion4.gif" crc="3864578979" seo="true" ref="week-3"/>
+    <file name="fusion-51.gif" crc="4147955820" seo="true" ref="week-3"/>
+    <file name="fusion52.gif" crc="349477858" seo="true" ref="week-3"/>
+    <file name="fusion6.gif" crc="478306702" seo="true" ref="week-3"/>
+    <file name="fusion7.gif" crc="126713405" seo="true" ref="week-3"/>
+    <file name="fusion54.gif" crc="3902248913" seo="true" ref="week-3"/>
+    <file name="fusiion-8.gif" crc="217974088" seo="true" ref="week-3"/>
+    <file name="mc1.gif" crc="4174367523" seo="true" ref="week-3"/>
+    <file name="mc2.gif" crc="257952968" seo="true" ref="week-3"/>
+    <file name="mc3.gif" crc="4271735355" seo="true" ref="week-3"/>
+    <file name="mc4.gif" crc="3892826421" seo="true" ref="week-3"/>
+    <file name="mc5.gif" crc="258280686" seo="true" ref="week-3"/>
+    <file name="omni15.gif" crc="495347750" seo="true" ref="weekly-work:week-3"/>
+    <file name="001.gif" crc="3907747919" seo="true" ref="week-3"/>
+    <file name="002.gif" crc="395638695" seo="true" ref="week-3"/>
+    <file name="omni2.gif" crc="3929285089" seo="true" ref="week-3"/>
+    <file name="omni1.gif" crc="509632756" seo="true" ref="week-3"/>
+    <file name="omni3.gif" crc="4053639418" seo="true" ref="week-3"/>
+    <file name="omni4.gif" crc="4052659309" seo="true" ref="week-3"/>
+    <file name="omni5.gif" crc="201324540" seo="true" ref="week-3"/>
+    <file name="omni6.gif" crc="190663496" seo="true" ref="week-3"/>
+    <file name="omni7.gif" crc="3797448857" seo="true" ref="week-3"/>
+    <file name="omni8.gif" crc="4106851482" seo="true" ref="week-3"/>
+    <file name="omni9.gif" crc="2711219" seo="true" ref="week-3"/>
+    <file name="omni10.gif" crc="3995742899" seo="true" ref="week-3"/>
+    <file name="omni11.gif" crc="4206290603" seo="true" ref="week-3"/>
+    <file name="omni12.gif" crc="174183539" seo="true" ref="week-3"/>
+    <file name="omni13.gif" crc="3835848824" seo="true" ref="week-3"/>
+    <file name="omni14.gif" crc="454544036" seo="true" ref="week-3"/>
+    <file name="ws1.gif" crc="4058017599" seo="true" ref="week-3"/>
+    <file name="ws2.gif" crc="324850531" seo="true" ref="week-3"/>
+    <file name="rod.gif" crc="111919302" seo="true" ref="week-3"/>
+    <file name="ws4.gif" crc="298052339" seo="true" ref="week-3"/>
+    <file name="ws5.gif" crc="304776348" seo="true" ref="week-3"/>
+    <file name="ws6.gif" crc="119356331" seo="true" ref="week-3"/>
   </folder>
   <file name="index.html" crc="4151425607" seo="true" mt="1517400063371" redirect="true"/>
   <file name="project.html" crc="190412399" seo="true" mt="1517399219591" redirect="true"/>
   <file name="about-me.html" crc="3937574936" seo="true" mt="1517401266950" redirect="true"/>
-  <file name="weekly-work.html" crc="373593105" seo="true" mt="1517399219591" redirect="true"/>
+  <file name="weekly-work.html" crc="478444198" seo="true" mt="1517914489901" redirect="true"/>
   <file name="week-1.html" crc="495600527" seo="true" mt="1517402313270" redirect="true"/>
-  <file name="week-2.html" crc="4250351353" seo="true" mt="1517399219591" redirect="true"/>
-  <file name="week-3.html" crc="468212501" seo="true" mt="1517399219591" redirect="true"/>
+  <file name="week-2.html" crc="155262988" seo="true" mt="1517804843753" redirect="true"/>
+  <file name="week-3.html" crc="4187428511" seo="true" mt="1517914332144" redirect="true"/>
   <file name="week4.html" crc="3974039124" seo="true" mt="1517399219591" redirect="true"/>
   <file name="muse.html" crc="4181595297" seo="true" mt="1517399219591" redirect="true"/>
   <file name="git.html" crc="45063199" seo="true" mt="1517399219591" redirect="true"/>
